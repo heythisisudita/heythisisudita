@@ -1,85 +1,51 @@
-# 🧩 CrowdStrike APAC Campaign Orchestration
+# 👋 Hi, I'm Udita Singha
 
-## 👩‍💼 Role
-
-**Project Manager & Campaign Owner**
-
-## 🏢 Domain
-
-Cybersecurity (B2B SaaS)
-
-## 🌏 Region
-
-APAC
-
-## ⏳ Duration
-
-Ongoing (Quarterly Campaign Cycles)
+🎯 **Digital Marketing & Project Management Professional | B2B Demand Generation | Performance Marketing | Global Campaigns (US, UK, APAC)**
 
 ---
 
-## 🔍 Overview
+## 🚀 About Me
 
-Led the end-to-end orchestration of **18–20 concurrent marketing campaigns per quarter** for CrowdStrike across the APAC region. Managed large-scale, multi-market demand generation initiatives targeting enterprise-level decision-makers, ensuring seamless execution and consistent pipeline delivery.
+I’m a data-driven marketing and project management professional with 4+ years of experience leading end-to-end campaigns across global markets. I specialize in building scalable demand generation systems, optimizing performance marketing funnels, and managing cross-functional execution across diverse industries.
 
----
-
-## 🎯 Objectives
-
-* Drive high-quality B2B lead generation across APAC markets
-* Promote cybersecurity assets (webinars, whitepapers, virtual events)
-* Ensure SLA-driven execution across multiple geographies
-* Align marketing outputs with sales pipeline requirements
+My work sits at the intersection of **strategy, execution, and stakeholder management**, where I drive measurable business outcomes through structured campaign orchestration and data-backed decision-making.
 
 ---
 
-## ⚙️ Key Responsibilities
+## 💼 What I Work On
 
-* Owned the complete campaign lifecycle: **planning → execution → optimization → reporting**
-* Acted as the **Primary Point of Contact (PIC)** for client communication and stakeholder alignment
-* Managed cross-functional collaboration with:
+* **B2B SaaS & Cybersecurity Marketing**
+  Demand generation, content syndication, and multi-market campaign execution for global brands
 
-  * **Finance** (budget approvals & allocation)
-  * **Sales** (lead quality, pipeline alignment)
-  * **Operations** (campaign execution & delivery)
-  * **Product/Content teams** (messaging and positioning)
-* Created and managed **Jira workflows** for campaign tracking and task management
-* Ensured timely campaign launches across multiple APAC markets
+* **Performance Marketing (B2C & Lead Gen)**
+  Meta Ads, Google Ads, and funnel optimization for US-based businesses and conversion-focused campaigns
 
----
+* **CRM & Marketing Automation**
+  Lead lifecycle management, automation workflows, and campaign tracking systems
 
-## 🧠 Strategy & Execution
-
-* Executed **multi-channel demand generation strategy**:
-
-  * Content syndication
-  * Email marketing campaigns
-  * Webinar & event promotions
-* Localized campaign messaging for diverse APAC audiences
-* Continuously optimized campaigns based on **engagement metrics, CPL trends, and lead quality signals**
+* **Project & Campaign Management**
+  End-to-end ownership of global campaigns, managing cross-functional teams across regions
 
 ---
 
-## 📊 Innovation & Tools
+## 🌍 Industry Experience
 
-* Built an **AI-powered campaign performance dashboard** using:
-
-  * ChatGPT & Claude (for insights and automation logic)
-  * Advanced Excel (automated trackers, formulas, reporting systems)
-* Automated reporting workflows, reducing manual effort and improving turnaround time
-* Created centralized dashboards for **real-time stakeholder visibility**
-
----
-
-## 📈 Impact & Results
-
-* Successfully managed **high-volume parallel campaigns** with zero delivery delays
-* Improved reporting efficiency by **~40% through automation**
-* Delivered consistent, high-quality lead flow aligned with sales targets
-* Strengthened cross-functional alignment across global teams
+* **SaaS & Cybersecurity** (CrowdStrike, Zscaler)
+* **Healthcare Marketing** (patient acquisition & service-based campaigns)
+* **Education & Training** (lead generation & awareness campaigns)
+* **E-commerce & Retail** (performance marketing for US clients)
+* **Real Estate** (India-based lead generation campaigns)
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 Core Expertise
 
-Project Management | B2B Demand Generation | Campaign Orchestration | Cross-Functional Leadership | Marketing Automation | Data-Driven Optimization | Stakeholder Management
+**Demand Generation | Performance Marketing | Campaign Orchestration | Project Management | CRM Automation | Funnel Optimization | Stakeholder Management | Data-Driven Marketing**
+
+---
+
+## 📊 My Approach
+
+I don’t just execute campaigns—I design **scalable marketing systems** that align with business objectives, improve lead quality, and drive consistent pipeline growth across global markets.
+
+---
